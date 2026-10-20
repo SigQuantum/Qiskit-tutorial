@@ -12,6 +12,7 @@ dependencies = [
     "matplotlib>=3.11.2",
     "numpy>=2.5.4",
     "scipy>=1.18.1",
+    "qc-grader>=2026.9.29",
 ]
 
 [dependency-groups]
