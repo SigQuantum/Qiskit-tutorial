@@ -1,6 +1,11 @@
 # Qiskit Tutorial
 
 Install Git and uv, then run:
+Git installation:
+https://git-scm.com/install/
+
+UV installation:
+https://docs.astral.sh/uv/getting-started/installation/
 
 ```sh
 git clone https://github.com/SigQuantum/Qiskit-tutorial.git
